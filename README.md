@@ -1,2 +1,2 @@
-# srinivasbellarichenna.github.io
-Portfolio Repo
+Srini's portfolio: https://srinivasbellarichenna.github.io/
+
