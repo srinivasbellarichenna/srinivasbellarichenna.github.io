@@ -1,0 +1,216 @@
+<div class="row about-timelines" data-animate-block>
+
+                    <div class="column lg-6 tab-12">
+
+                        <h2 class="text-pretitle" data-animate-el>
+                            Experience
+                        </h2>
+
+                        <div class="timeline" data-animate-el>
+
+                            <div class="timeline__block">
+                                <div class="timeline__bullet"></div>
+                                <div class="timeline__header">
+                                    <h4 class="timeline__title">Diconium Digital Solutions GmbH</h3>
+                                    <h5 class="timeline__meta">Solutions Architect</h5>
+                                    <p class="timeline__timeframe">February 2018 - Present</p>
+                                </div>
+                                <div class="timeline__desc">
+                                    <ul>
+                                        <li>Designing state of the art e-Commerce solutions for leading Automotive brand with MACH (Microservices based, API-first, Cloud-native SaaS and Headless) approach</li>
+                                        <li>As a Solution Architect I planned and executed all projects with focus on delivering robust and scalable architecture. Among other functions I developed project technical solutions, roadmaps, estimates and timelines.</li>
+                                        <li>Managing activities for component development supporting business objectives while providing expertise in software development lifecycle phases from solution concept, solution design to implementation.</li>
+                                        <li>Responsible for communicating the solution architecture to the stakeholders. Collaborated with cross-functional teams and coordinated with Enterprise architects.</li>
+                                        <li>Experienced in designing and developing API’s to interact with external systems considering the risks, data integrity and security aspects.</li>
+                                        <li>Successfully delivered the projects within budget and timelines.</li>
+                                    </ul>
+                                </div>
+                            </div>
+    
+                            <div class="timeline__block">
+                                <div class="timeline__bullet"></div>
+                                <div class="timeline__header">
+                                    <h4 class="timeline__title">Accenture Noridics</h4>
+                                    <h5 class="timeline__meta">Senior Java Hybris Consultant </h5>
+                                    <p class="timeline__timeframe">June 2017 - January 2018</p>
+                                </div>
+                                <div class="timeline__desc">
+                                    <ul>
+                                        <li>Worked as Hybris Solution Architect and Lead developer for a Leading Austrian jewelry brand. Provided consultation with design decisions and approaches for the Hybris application Lifecycle Framework</li>
+                                        <li>Lead the SAP Commerce Practice setup from Technological front. On the sales side provided Solution Proposals for RFPs. Additional activies including Boot Camps organisation, Technical & Recruitment Presentations, Hiring and onboarding.</li>
+                                        </ul>
+                                </div>
+                            </div>
+
+
+                            <div class="timeline__block">
+                                <div class="timeline__bullet"></div>
+                                <div class="timeline__header">
+                                    <h4 class="timeline__title">Publicis Sapient</h4>
+                                    <h5 class="timeline__meta">Senior Associate Consultant – SAP Hybris </h5>
+                                    <p class="timeline__timeframe">January 2016 - May 2017 </p>
+                                </div>
+                                <div class="timeline__desc">
+                                    <ul>
+                                        <li>Worked in multiple eCommerce projects as a lead developer and Consultant/Architect</li>
+                                        <li>Technical contributor in Strategy & Leadership team of SAP Commerce Capability.</li> 
+                                        <li>Mentored fellow junior and senior developers</li>
+                                        <li>OMS & OCC capabilities implementation using SAP Hybirs & MuleSoft based integrations</li>
+                                        <li>Design and implementation of Rule engine based promotions</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+
+
+                            <div class="timeline__block">
+                                <div class="timeline__bullet"></div>
+                                <div class="timeline__header">
+                                    <h4 class="timeline__title">Infosys</h4>
+                                    <h5 class="timeline__meta">Lead Developer Java & SAP Hybris</h5>
+                                    <p class="timeline__timeframe">February 2012 - December 2015</p>
+                                </div>
+                                <div class="timeline__desc">
+                                    <ul>
+                                        <li>Worked in multiple eCommerce projects (for Leading brands from France, Japan, USA and UK) as a developer and lead developer.</li>                                        
+                                    </ul>
+                                </div>
+                            </div>
+    
+                        </div> <!-- end timeline -->
+
+                    </div> <!-- end column -->
+
+                    <div class="column lg-6 tab-12">
+
+                        <h2 class="text-pretitle" data-animate-el>
+                            Education
+                        </h2>
+
+                        <div class="timeline" data-animate-el>
+
+                            <div class="timeline__block">
+                                <div class="timeline__bullet"></div>
+                                <div class="timeline__header">
+                                    <h4 class="timeline__title"> Jawaharlal Nehru Technological University</h3>
+                                    <h5 class="timeline__meta">Bachelor of Technology  in Electronics and Communication Engineering</h5>
+                                    <p class="timeline__timeframe">2007 - 2011</p>
+                                </div>
+                                <!--<div class="timeline__desc">
+                                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+                                </div>-->
+                            </div>
+                            <!--
+                            <div class="timeline__block">
+                                <div class="timeline__bullet"></div>
+                                <div class="timeline__header">
+                                    <h4 class="timeline__title">School of Cool Designers</h4>
+                                    <h5 class="timeline__meta">B.A. Degree in Graphic Design</h5>
+                                    <p class="timeline__timeframe">August 2012</p>
+                                </div>
+                                <div class="timeline__desc">
+                                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+                                </div>
+                            </div>
+                            -->
+    
+                        </div> <!-- end timeline -->
+
+                        <h2 class="text-pretitle" data-animate-el>
+                            Certifications
+                        </h2>
+                        <div class="timeline" data-animate-el>
+
+                            <div class="timeline__block">
+                                <div class="timeline__bullet"></div>
+                                <div class="timeline__header">
+                                    <h4 class="timeline__title"> ISAQB® </h3>
+                                    <h5 class="timeline__meta">Certified Professional for Software Architecture</h5>
+                                    <p class="timeline__timeframe">2021</p>
+                                </div>                                
+                            </div>
+
+                            <div class="timeline__block">
+                                <div class="timeline__bullet"></div>
+                                <div class="timeline__header">
+                                    <h4 class="timeline__title"> SAP Certified </h3>
+                                    <h5 class="timeline__meta">Development Professional</h5>
+                                    <h5 class="timeline__meta">Application Associate</h5>
+                                    <h5 class="timeline__meta">Product Support Specialist</h5>
+                                    <p class="timeline__timeframe">2019</p>
+                                </div>                                
+                            </div>
+                            
+    
+                        </div> <!-- end timeline -->
+
+
+                        <h2 class="text-pretitle" data-animate-el>
+                            Tools
+                        </h2>
+                        <div class="timeline" data-animate-el>
+
+                            <div class="timeline__block">
+                                <div class="timeline__bullet"></div>
+                                <div class="timeline__header">                                    
+                                    <h5 class="timeline__meta">Docker</h5> 
+                                    <h5 class="timeline__meta">Kubernetes</h5> 
+                                    <h5 class="timeline__meta">UML</h5>
+                                    <h5 class="timeline__meta">Swagger</h5>
+                                    <h5 class="timeline__meta">Postman</h5>
+                                    <h5 class="timeline__meta">JMeter</h5>
+                                    <h5 class="timeline__meta">Kibana</h5> 
+                                    <h5 class="timeline__meta">Newrelic</h5>
+                                    <p class="timeline__timeframe"></p>                                  
+                                </div>                                
+                            </div>                        
+                            
+    
+                        </div> <!-- end timeline -->
+
+
+                        <h2 class="text-pretitle" data-animate-el>
+                            Methodologies
+                        </h2>
+                        <div class="timeline" data-animate-el>
+
+                            <div class="timeline__block">
+                                <div class="timeline__bullet"></div>
+                                <div class="timeline__header">                                    
+                                    <h5 class="timeline__meta">SAFe</h5> 
+                                    <h5 class="timeline__meta">Agile</h5> 
+                                    <h5 class="timeline__meta">Scrum</h5>
+                                    <h5 class="timeline__meta">Waterfall</h5>
+                                    <h5 class="timeline__meta">TDD</h5>
+                                    <p class="timeline__timeframe"></p>                                                                      
+                                </div>                                
+                            </div>                        
+                            
+    
+                        </div> <!-- end timeline -->
+
+                        <h2 class="text-pretitle" data-animate-el>
+                            Languages
+                        </h2>
+                        <div class="timeline" data-animate-el>
+
+                            <div class="timeline__block">
+                                <div class="timeline__bullet"></div>
+                                <div class="timeline__header">                                    
+                                    <h5 class="timeline__meta">English</h5> 
+                                    <h5 class="timeline__meta">German(A1)</h5> 
+                                    <h5 class="timeline__meta">Telugu</h5>                                   
+                                    <p class="timeline__timeframe"></p>                                                                      
+                                </div>                                
+                            </div>                        
+                            
+    
+                        </div> <!-- end timeline -->
+                        
+                    </div> <!-- end column -->
+
+
+                  
+
+
+                </div> <!-- end about-timelines -->
